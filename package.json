@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SDC-Tiramisu/proxy_shuweis#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "http-proxy": "^1.18.0",
     "http-proxy-middleware": "^0.20.0",
     "newrelic": "^6.2.0",
